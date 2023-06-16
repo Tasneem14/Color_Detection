@@ -13,5 +13,4 @@ This repository contains code for a simple color detection program using OpenCV 
 
 1. Clone the repository:
 
-```shell
-git clone https://github.com/your-username/color-detection.git
+
