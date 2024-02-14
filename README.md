@@ -9,8 +9,5 @@ This repository contains code for a simple color detection program using OpenCV 
 - OpenCV library (cv2)
 - NumPy library (numpy)
 
-## Installation
-
-1. Clone the repository:
 
 
